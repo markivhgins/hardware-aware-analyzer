@@ -97,12 +97,17 @@ src/algorithms/branch.c
 ## Examples
 
 ./analyzer array 1000000 5
+
 ./analyzer linkedlist 1000000 5
 
+
 ./analyzer matrix_naive 256 3
+
 ./analyzer matrix_opt 256 3
 
+
 ./analyzer branch_pred 100000000 3
+
 ./analyzer branch_rand 100000000 3
 
 ---
