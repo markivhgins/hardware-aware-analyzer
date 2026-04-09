@@ -137,7 +137,6 @@ Run 1: 200.123 ms | Cycles: 123456789 | Instructions: ... | Cache Misses: ... | 
 * CSV logging
 * Graph visualization
 * Statistical analysis (variance, std dev)
-* Web-based dashboard
 
 ---
 
